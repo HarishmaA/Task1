@@ -1,4 +1,4 @@
-# Task1
+# TaskOnJava
 1. Write a program that stores n number of staff details.
     * Get the number of staff details to be stored.
     * Collect the staff info and store them in an array.
